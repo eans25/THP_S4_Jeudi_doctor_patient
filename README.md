@@ -1,24 +1,21 @@
-# README
+# THP-S4 - Doctor / RDV / Patient
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> Contributeurs :Eangly ENG, Kwevan GOUACIDE
 
-Things you may want to cover:
 
-* Ruby version
+### Utilisation
 
-* System dependencies
+Installer les gems :
 
-* Configuration
+`bundle install`
 
-* Database creation
+Démarrer la migration
 
-* Database initialization
+`rails db:migrate`
 
-* How to run the test suite
+Puis activer le seed
 
-* Services (job queues, cache servers, search engines, etc.)
+`rails db:seed`
 
-* Deployment instructions
 
-* ...
+
